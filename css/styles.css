@@ -2701,7 +2701,7 @@ img.u-pull-left {
     line-height : 1.0740;
     margin-top  : 0;
     color:greenyellow;
-    
+    text-align: center;
 }
 .line-small-about {
     --text-huge : 2rem;
