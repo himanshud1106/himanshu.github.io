@@ -2680,11 +2680,11 @@ img.u-pull-left {
 
 .text-pretitle.with-line {
     color        : var(--color-1);
-    padding-left : 6rem;
+/*     padding-left : 6rem; */
     transform    : translateX(-6rem);
 }
 
-.text-pretitle.with-line::before {
+/* .text-pretitle.with-line::before {
     content          : "";
     display          : block;
     height           : 1px;
@@ -2693,7 +2693,7 @@ img.u-pull-left {
     position         : absolute;
     top              : 10%;
     left             : 0;
-}
+} */
 
 .text-huge-title {
     --text-huge : 6rem;
